@@ -2,7 +2,7 @@
 
 ## To Start
 load your image in the console to add an image to your workspace
-call compression(<IMAGE>) where <IMAGE> is the image name
+call compression(IMAGE) where IMAGE is the image name
 
 ## Notes
-currently the function only works for 256x256 images
+currently the function only works for 256x256 images (camera256.mat)
